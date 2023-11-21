@@ -1,7 +1,7 @@
 # EXAMEN PRIMERA EVALUACION
 ![Imagen](https://cdn-icons-png.flaticon.com/512/1995/1995704.png)
 
-[Ver Licencia](https://github.com/lidiaplrs/examen1/LICENSE)
+[Ver Licencia](https://github.com/lidiaplrs/examen1/blob/main/LICENSE)
 
 ## Mayores debilidades y fortalezas de Github
 | Característica de Seguridad                 | Importancia                                         |
